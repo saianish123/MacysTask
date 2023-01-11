@@ -1,0 +1,5 @@
+com\macys\OrderMessageConsumer\Config\MacysOrderConsumerConfig.class
+com\macys\OrderMessageConsumer\Processor\macysOrderProcessor.class
+com\macys\OrderMessageConsumer\Config\MacysOrderSetter.class
+com\macys\OrderMessageConsumer\Model\macysOrder.class
+com\macys\OrderMessageConsumer\MacysOrder.class

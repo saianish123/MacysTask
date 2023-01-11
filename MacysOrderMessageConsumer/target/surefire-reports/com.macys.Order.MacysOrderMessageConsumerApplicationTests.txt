@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.macys.Order.MacysOrderMessageConsumerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.468 s <<< FAILURE! - in com.macys.Order.MacysOrderMessageConsumerApplicationTests
+com.macys.Order.MacysOrderMessageConsumerApplicationTests  Time elapsed: 0.462 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "found" is null
+
